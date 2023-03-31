@@ -1,0 +1,6 @@
+# vscode generated files
+.vscode/*
+.vscode
+
+# generated files
+!*.*
