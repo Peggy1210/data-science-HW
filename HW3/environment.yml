@@ -1,0 +1,7 @@
+name: HW3
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - tensorboard
